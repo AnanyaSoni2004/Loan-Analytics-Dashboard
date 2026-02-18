@@ -31,19 +31,57 @@ It is provided in a raw and partially uncleaned format to offer hands-on experie
 
 ## Key Insights & Statistics
 
+### Portfolio Risk Drivers
+- Default probability increases significantly as **Debt-to-Income (DTI) ratios rise**, indicating borrower affordability is a primary risk driver.
+- Loans with **high Loan-to-Value (LTV)** ratios show noticeably higher default concentrations due to reduced collateral buffers.
+- **Lower credit score segments** consistently demonstrate higher default rates, reinforcing creditworthiness as a core determinant of loan performance.
 
+### Portfolio Composition
+- A measurable share of loans falls into **medium-to-high risk categories**, suggesting concentration risk within certain borrower segments.
+- **Interest-only loans** represent a structurally higher-risk segment due to delayed principal repayment exposure.
+- Certain **loan purposes dominate portfolio volume**, creating potential exposure concentration in specific lending categories.
 
+### Regional & Product Patterns
+- Loan performance varies significantly by **region**, indicating geographic differences in borrower behavior and default risk.
+- **Loan type variation** reveals that product design influences repayment behavior and risk levels.
 
+### Key Portfolio Indicators
+- Strong positive relationship between:
+  - High DTI → higher defaults  
+  - High LTV → higher defaults  
+  - Low credit score → higher defaults  
+- Financial ratios (**DTI, LTV, Credit Score**) are the primary predictors of portfolio risk exposure.
 
-
+---
 
 ## Analysis Suggestions
 
+### Risk Monitoring & Strategy
+- Implement **DTI-based screening thresholds** to reduce high-risk approvals.
+- Strengthen **LTV controls** to improve collateral coverage and reduce exposure.
+- Monitor and cap **interest-only loan share** within the portfolio.
 
+### Borrower Segmentation
+- Use **credit score bands, DTI bands, and LTV bands** for targeted risk segmentation.
+- Identify high-risk clusters and apply stricter approval or pricing policies.
 
+### Regional Optimization
+- Track **default rate by region** to detect geographic risk concentration.
+- Adjust lending strategies region-wise to balance growth and risk.
 
+### Portfolio Optimization
+- Diversify loan purpose distribution to reduce concentration risk.
+- Use dashboard KPIs to continuously track:
+  - Default rate  
+  - High-risk borrower ratio  
+  - Average credit score  
+  - Interest rate trends  
 
-
+### Future Enhancements
+- Add predictive modeling for default probability.
+- Introduce automated risk scoring.
+- Integrate real-time monitoring dashboards.
+- Incorporate macroeconomic indicators for deeper analysis.
 
 ## Data Cleaning Notes
 *Handled missing values using median, mode, and band-based imputation techniques.
