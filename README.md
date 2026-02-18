@@ -7,7 +7,7 @@ The dataset captures borrower demographics, loan characteristics, credit attribu
 
 Dataset Analysis Screenshot
 
-(Add your dashboard screenshot here)
+![Loan Analytics Dashboard](Dashboard.png)
 
 File Details
 
