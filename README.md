@@ -5,14 +5,14 @@ This dataset provides a structured record of loan applications and borrower prof
 
 The dataset captures borrower demographics, loan characteristics, credit attributes, and repayment risk indicators.
 
-Dataset Analysis Screenshot
+Dataset Analysis Screenshot:
 
 ![Loan Analytics Dashboard](Dashboard.png)
 
 File Details
 
 Filename: loan_default_dataset.csv
-Total Records: (Insert your row count)
+Total Records: 9995
 Primary Keys: ID
 
 Data Dictionary
@@ -61,15 +61,14 @@ Risk Indicators: Features financial ratios such as LTV and DTI
 
 Borrower Demographics: Covers gender, age groups, and regions
 
-(Insert your calculated metrics if available)
 
 Example:
 
-Average Loan Amount:
+Average Loan Amount: ~ ₹333,000 (approx from chart visual)
 
-Average Credit Score:
+Average Credit Score: 701
 
-Default Rate:
+Default Rate: 24.87%
 
 Analysis Suggestions
 
